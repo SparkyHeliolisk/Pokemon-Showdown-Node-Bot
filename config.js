@@ -11,11 +11,11 @@
 *
 */
 
-exports.server = 'localhost';
+exports.server = 'sim.smogon.com';
 
 exports.port = 8000;
 
-exports.serverid = 'localhost';
+exports.serverid = 'showdown';
 
 exports.autoReconnectDelay = 10 * 1000;
 exports.connectionTimeout = 2 * 60 * 1000;
@@ -44,7 +44,7 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = '';
+exports.nick = 'pikpikpik';
 
 exports.pass = '';
 
@@ -78,7 +78,7 @@ exports.initCmds = ['|/avatar 120']; // Other commands (avatar, blockchallenges,
 */
 
 exports.exceptions = {
-	// 'userid': true
+	'sparkyheliolisk': true
 };
 
 /*
@@ -106,7 +106,7 @@ exports.globalPermissions = {
 * Commands configuration
 */
 
-exports.commandTokens = ['.']; //Array of valid command characters
+exports.commandTokens = ['*']; //Array of valid command characters
 
 exports.defaultPermission = '%';
 
