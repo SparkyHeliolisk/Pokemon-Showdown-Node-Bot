@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = 'SparkyHeliolisk';
+exports.nick = 'April Memes Day';
 
-exports.pass = 'Harlequin04';
+exports.pass = 'Swordtail04';
 
 exports.autoReloginDelay = 60 * 1000;
 
