@@ -46,7 +46,7 @@ exports.watchconfig = true;
 
 exports.nick = 'pikpikpik';
 
-exports.pass = '';
+exports.pass = '*';
 
 exports.autoReloginDelay = 60 * 1000;
 
