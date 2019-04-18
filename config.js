@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = 'pikpikpik';
+exports.nick = 'SparkyHeliolisk';
 
-exports.pass = '';
+exports.pass = 'Harlequin04';
 
 exports.autoReloginDelay = 60 * 1000;
 
