@@ -46,7 +46,7 @@ exports.watchconfig = true;
 
 exports.nick = 'pikpikpik';
 
-exports.pass = '*';
+exports.pass = '';
 
 exports.autoReloginDelay = 60 * 1000;
 
@@ -106,7 +106,7 @@ exports.globalPermissions = {
 * Commands configuration
 */
 
-exports.commandTokens = ['*']; //Array of valid command characters
+exports.commandTokens = ['+']; //Array of valid command characters
 
 exports.defaultPermission = '%';
 
