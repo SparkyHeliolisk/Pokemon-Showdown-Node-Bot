@@ -44,7 +44,7 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = "iBot";
+exports.nick = "A Very Bad Bot";
 
 exports.pass = '';
 
