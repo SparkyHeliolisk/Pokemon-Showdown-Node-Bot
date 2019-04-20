@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = 'April Memes Day';
+exports.nick = "Sparky's Bot";
 
-exports.pass = 'Swordtail04';
+exports.pass = '';
 
 exports.autoReloginDelay = 60 * 1000;
 
