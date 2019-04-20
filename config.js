@@ -44,7 +44,7 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = "Sparky's Bot";
+exports.nick = "iPhone";
 
 exports.pass = '';
 
